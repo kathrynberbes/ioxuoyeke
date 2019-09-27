@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kagoophain.chenyumiyu.club/sitemap.xml
